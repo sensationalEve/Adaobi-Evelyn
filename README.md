@@ -18,6 +18,5 @@ I am building hands-on experience as a SOC Analyst, focusing on real-world secur
 
 * LinkedIn: https://www.linkedin.com/in/adaobievelyn/
 
----
 
 I am actively working toward becoming a Tier 1 SOC Analyst.
